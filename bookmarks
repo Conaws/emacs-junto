@@ -1,0 +1,25 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored-marker"
+ (filename . "~/orgmap/lessons.org")
+ (front-context-string . "** Creating sepe")
+ (rear-context-string . "ering Emacs]]\n\n\n")
+ (position . 2444))
+("org-refile-last-stored"
+ (filename . "~/orgmap/lessons.org")
+ (front-context-string . "** Creating sepe")
+ (rear-context-string . "ering Emacs]]\n\n\n")
+ (position . 2444))
+("Emacs Notes"
+ (filename . "~/orgmap/emacs.org")
+ (front-context-string . "\n\n* Learning Ema")
+ (rear-context-string . "astering Emacs]]")
+ (position . 99))
+("org-capture-last-stored"
+ (filename . "~/orgmap/lessons.org")
+ (front-context-string . "* Popper -- Appr")
+ (rear-context-string)
+ (position . 2))
+)

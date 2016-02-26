@@ -1,0 +1,35 @@
+
+;; ----- smex-history -----
+(
+ customize-variable
+ org-indent-mode
+ load-theme
+ org-mode
+ org-footnote-renumber-fn:N
+ footnote-mode
+ visual-line-mode
+)
+
+;; ----- smex-data -----
+(
+ (eval-buffer . 2)
+ (load-theme . 20)
+ (enable-theme . 1)
+ (life . 1)
+ (insert-file . 1)
+ (Custom-save . 1)
+ (smex-save-to-file . 1)
+ (isearch-yank-line . 1)
+ (isearch-cancel . 1)
+ (org-mode . 5)
+ (org-next-item . 1)
+ (outline-next-heading . 1)
+ (clone-buffer . 1)
+ (clone-indirect-buffer . 1)
+ (toggle-word-wrap . 3)
+ (visual-line-mode . 1)
+ (footnote-mode . 2)
+ (org-footnote-renumber-fn:N . 2)
+ (customize-variable . 2)
+ (org-indent-mode . 4)
+)
